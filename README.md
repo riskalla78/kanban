@@ -57,7 +57,7 @@ Esse processo garantiu um sistema completo, limpo e funcional, adequado a equipe
 ## 🛠️ Tecnologias Utilizadas
 
 - **PHP 8+**
-- **MySQL/MariaDB**
+- **MariaDB**
 - **HTML5 + CSS3**
 - **jQuery + jQuery UI**
 - **Font Awesome**
