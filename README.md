@@ -33,7 +33,7 @@ Para atingir o resultado proposto de um sistema Kanban funcional, segui os segui
 
    - Adicionei media queries no CSS para garantir boa visualização e usabilidade em dispositivos móveis.
 
-6. **Feedback e melhorias:**
+6. **Melhorias:**
 
    - Corrigi erros encontrados durante os testes (ex: redirecionamentos, falhas de sessão, prioridade de ordenação).
    - Implementei diferenciação visual por prioridade (Alta, Média, Baixa) e cálculo de tempo de conclusão.
