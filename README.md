@@ -2,6 +2,10 @@
 
 Um sistema Kanban simples e funcional desenvolvido com **PHP**, **MariaDB**, **jQuery** e **CSS responsivo**. Permite que usuários criem, arrastem, editem e excluam tarefas, com controle de usuários e permissões para gerentes. Tarefas com prioridade maior vão para o topo.
 
+
+https://github.com/user-attachments/assets/876dba78-3a58-416d-a6b1-3164cc20a2ce
+
+
 ## 🧾 Apresentação do Desenvolvimento
 
 Para atingir o resultado proposto de um sistema Kanban funcional, segui os seguintes passos:
