@@ -1,9 +1,11 @@
+//O código dessa página é responsável pela interatividade do sistema
 $(".task-card").draggable({
   revert: "invalid",
   cursor: "move",
   zIndex: 1000,
 });
 
+//Torna os cards arrastáveis
 $(".tasks-container").droppable({
   accept: ".task-card",
   hoverClass: "hovered",

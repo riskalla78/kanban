@@ -8,6 +8,7 @@ if (!isset($tarefas_por_status) || !is_array($tarefas_por_status)): ?>
 
 <?php
 require_once __DIR__ . '/../includes/functions.php';
+
 ?>
 
 <?php if (isLoggedIn()): ?>
